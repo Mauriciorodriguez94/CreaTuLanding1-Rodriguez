@@ -1,6 +1,8 @@
 .navbar-container{
+    height: 5vh;
     display: flex;
     justify-content:space-around;
+    align-items: center;
     background-color: #A52A2A;
     border-radius: 12px;
 }
